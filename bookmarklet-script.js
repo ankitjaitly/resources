@@ -18,7 +18,7 @@ function sendToNotesFromTheEdge(){
    const utmPattern=/(\?|&)(utm_[^&=]+=[^&]*)/gi;
    const wUrl=encodeURI(location.href.replace(utmPattern,''));
    const wTitle=`${document.title} | ${domain}`;
-   const formID='1EKkI_-IsmRMJnod-LLBP14dh8JBMDrmfBENcmfvnWQg';
+   const formID='1FAIpQLSfx-jf_iIhPJtgE2Kw-NDJOtqfsqOBMF9lkS0_CeQF6Ik3eWA';
    const formUrl='https://docs.google.com/forms/d/e/' + formID + '/viewform';
    let description='';
    const wDescription=document.querySelector('meta[name="description"],meta[itemprop="description"]');

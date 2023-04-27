@@ -1,7 +1,7 @@
 /*
 SEND TO NOTES FROM THE EDGE
 Bookmarklet to capture URLs, titles, and any selected text to a Google Sheets form
-Credits goes to @Rich Tatum for original source code.
+Credits goes to @Rich Tatum - richtatum.github.io for original source code.
 Created: 04/26/2023 08:02 AM
 Updated: 04/27/2023 11:38 AM
    Modified comment braces
